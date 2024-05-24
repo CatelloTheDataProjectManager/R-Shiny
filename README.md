@@ -2,6 +2,8 @@
 
 This project is a web application developed using the Shiny framework in R. It allows users to visualize and analyze data in an intuitive and dynamic way.
 
+![Data](https://github.com/CatelloTheDataProjectManager/R-Shiny/blob/main/data-R.png)
+
 With this application, you can:
 
 - Explore and filter data in real time
@@ -22,4 +24,10 @@ This project showcases my skills in:
 - Integration of JavaScript libraries such as rAmCharts for advanced data visualization features
 - Creation of a user-friendly and responsive interface to facilitate data exploration and understanding.
 
-In summary, this project demonstrates my ability to develop effective software solutions to meet data analysis and visualization needs in various fields.
+![Data Viz](https://github.com/CatelloTheDataProjectManager/R-Shiny/blob/main/Viz-R.png)
+
+I'm thrilled to introduce two data projects that we have been  working on.
+
+- **R code: Project 1** [IRIS Dataset](https://github.com/CatelloTheDataProjectManager/R-Shiny/blob/main/app.R)
+- **R code: Project 2** [Diamonds Dataset](https://github.com/CatelloTheDataProjectManager/R-Shiny/blob/main/diamonds/app.R)
+
