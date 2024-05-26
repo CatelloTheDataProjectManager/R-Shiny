@@ -28,6 +28,6 @@ This project showcases my skills in:
 
 I'm thrilled to introduce two data projects that we have been  working on.
 
-- **R code: Project 1** [IRIS Dataset](https://github.com/CatelloTheDataProjectManager/R-Shiny/blob/main/app.R)
-- **R code: Project 2** [Diamonds Dataset](https://github.com/CatelloTheDataProjectManager/R-Shiny/blob/main/diamonds/app.R)
+- **R code** [IRIS Project](https://github.com/CatelloTheDataProjectManager/R-Shiny/blob/main/app.R)
+- **R code** [Diamonds Project](https://github.com/CatelloTheDataProjectManager/R-Shiny/blob/main/diamonds/app.R)
 
