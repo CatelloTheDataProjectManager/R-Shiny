@@ -31,3 +31,26 @@ I'm thrilled to introduce two data projects that we have been  working on.
 - **R code** [IRIS Project](https://github.com/CatelloTheDataProjectManager/R-Shiny/blob/main/app.R)
 - **R code** [Diamonds Project](https://github.com/CatelloTheDataProjectManager/R-Shiny/blob/main/diamonds/app.R)
 
+# Flask API for Data Visualization and Extraction
+
+This project demonstrates the automation of an API using Python and Flask to facilitate the visualization and extraction of data. The API enables users to efficiently retrieve, visualize, and analyze data.
+
+## Installation
+
+1. Clone the repository to your local machine.
+2. Create and activate a virtual environment for dependency management.
+3. Install the required dependencies listed in the `requirements.txt` file.
+
+## Usage
+
+1. Start the Flask application to run the API.
+2. Access the API via your web browser or a tool like Postman at the provided local server URL.
+
+## Endpoints
+
+The API provides the following endpoints:
+- `GET /data`: Fetches and displays data.
+- `POST /data`: Adds new data to the database.
+- `GET /visualize`: Generates a graphical visualization of the data.
+
+![API](https://github.com/CatelloTheDataProjectManager/Sales-Report/blob/main/API.png)
